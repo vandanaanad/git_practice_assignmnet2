@@ -1,7 +1,7 @@
 function prime(num){
     for(let i=0;i<=num;i--){
         if(i==0){
-            count--
+            count++
         }
     }
     if(count==2){
